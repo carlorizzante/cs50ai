@@ -1,0 +1,8 @@
+# Cache files
+/degrees/__pycache__
+
+# Data sets
+/degrees/large
+
+# Output files
+/search/maze.png
