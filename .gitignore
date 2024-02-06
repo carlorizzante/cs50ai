@@ -1,7 +1,7 @@
 # Cache files
-/degrees/__pycache__
+**/__pycache__
 
-# Data sets
+# Too big data sets
 /degrees/large
 
 # Output files
